@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Essai.
 - 👀 I’m interested in Cloud computing, Web dev & Data science.
 - 🌱 I’m currently learning Java,Sql.
-- 💞️ I’m looking to collaborate on anywhere i can learn.
+- 💞️ I’m looking forward to code,contribute and build something useful for the society.
 - 📫 How to reach me esiyyappan.ramasubbu@gmail.com
 
 <!---
